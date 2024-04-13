@@ -1,0 +1,1 @@
+Experienced in developing weather applications, utilizing APIs such as OpenWeatherMap to fetch real-time weather data. Proficient in designing user-friendly interfaces to display accurate forecasts, enhancing user experience and engagement.
