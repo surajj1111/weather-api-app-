@@ -1,0 +1,35 @@
+.container{
+    background-color: rgba(38, 170, 226, 0.381);
+    text-align: center;
+    margin: 50px;
+    padding: 35px;
+    width: 500px;
+    position: absolute;
+    left: 350px;
+}
+img{
+    position: relative;
+    top: 14px;
+}
+#search-icon{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.inputbox{
+    width: 250px;
+    height: 30px;
+    border-radius: 20px 20px 20px 20px;
+    border: none;
+}
+.wether{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap: 100px;
+}
+.City{
+    font-size: 160%;
+    font-weight: 700;
+}
